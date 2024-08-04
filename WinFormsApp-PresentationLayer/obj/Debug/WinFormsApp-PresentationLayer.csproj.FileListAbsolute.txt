@@ -1,0 +1,16 @@
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\obj\Debug\WinFormsApp-PresentationLayer.csproj.AssemblyReference.cache
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\obj\Debug\WinFormsApp_PresentationLayer.Properties.Resources.resources
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\obj\Debug\WinFormsApp-PresentationLayer.csproj.GenerateResource.cache
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\obj\Debug\WinFormsApp-PresentationLayer.csproj.CoreCompileInputs.cache
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\bin\Debug\WinFormsApp-PresentationLayer.exe.config
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\bin\Debug\WinFormsApp-PresentationLayer.exe
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\bin\Debug\WinFormsApp-PresentationLayer.pdb
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\bin\Debug\ContactBusinessLayer.dll
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\bin\Debug\ContactsDataAccessLayer.dll
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\bin\Debug\ContactBusinessLayer.pdb
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\bin\Debug\ContactsDataAccessLayer.pdb
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\obj\Debug\WinFormsApp-PresentationLayer.csproj.CopyComplete
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\obj\Debug\WinFormsApp-PresentationLayer.exe
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\obj\Debug\WinFormsApp-PresentationLayer.pdb
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\obj\Debug\WinFormsApp_PresentationLayer.frmMain.resources
+E:\desktop\conatcsconsoleapp-final\WinFormsApp-PresentationLayer\obj\Debug\WinFormsApp_PresentationLayer.frmAddEditContacts.resources
